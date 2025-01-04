@@ -11,5 +11,7 @@
     "lib": ["DOM"],
     "strict": true,
   },
-  "include": ["./src/**/*", "config.ts"]
+  "include": ["./src/**/*", "config.ts
+        "noUnusedLocals": false,
+
 }
